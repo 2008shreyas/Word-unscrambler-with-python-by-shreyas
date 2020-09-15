@@ -2,7 +2,7 @@
 This python program outputs a list of the possible options a scrambled word could be.
 
 ## About 
-This program was created by [Yarabadi-Shreyas]()
+This program was created by [Yarabadi-Shreyas](https://github.com/2008shreyas/Word-unscrambler-with-python-by-shreyas)
 
 # How it works
 It takes words from a text file and uses a lookup function to find words with the same letters (where the order of words does not matter).
