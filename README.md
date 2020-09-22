@@ -35,3 +35,4 @@ def Vect2Int(vect):
     return f
 ```
 Using an integer as lookup value in a dictionary makes it run really fast!
+[![Run on Repl.it](https://repl.it/badge/github/2008shreyas/Word-unscrambler-with-python-by-shreyas)](https://repl.it/github/2008shreyas/Word-unscrambler-with-python-by-shreyas)
